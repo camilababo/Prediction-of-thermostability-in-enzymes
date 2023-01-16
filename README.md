@@ -35,5 +35,5 @@ The present repository is organized in the following way:
 - LICENSE
 
 The data_files directory contains all resources content regarding used datasets and obtained plots. 
-Whereas the src directory contains the Machine Learning pipeline built for this project."# Novoenzymes_prediction_of_thermostable_enzymes" 
+Whereas the src directory contains the Machine Learning pipeline built for this project. 
 
