@@ -27,6 +27,7 @@ The present repository is organized in the following way:
     - test.csv
     - train.csv
     - train_updates_20220920.csv
+    - README.md
 - src/
     - machine_learning_pipeline.ipynb
 - .gitattributes
