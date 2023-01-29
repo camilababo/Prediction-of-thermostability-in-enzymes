@@ -3,3 +3,4 @@ data_files/test_dataset.csv
 data_files/train_dataset.csv
 data_files/val_dataset.csv
 *.zip
+*.csv
